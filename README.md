@@ -1,9 +1,9 @@
-haha.sh
+wtf.sh
 =======
 
-imagine a world where you could *generate laughter*
+imagine a world where you could *generate wtfness*
 
-to watch the laughs go by:
+to watch the "WTFs" go by:
 
 ```sh
 ./wtf.sh
