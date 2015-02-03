@@ -1,7 +1,7 @@
 wtf.sh
 =======
 
-imagine a world where you could *generate wtfness*
+imagine a world where you could *generate WTFness*
 
 to watch the "WTFs" go by:
 
@@ -12,5 +12,9 @@ to watch the "WTFs" go by:
 and then:
 
 ```
-WTF wtf wtf wtf WTF wtf  wtf WTF wtf  wtf wtf wtf wtf wtf wtf WTF wtf  WTF wtf wtf WTF wtf wtf WTF wtf wtf wtf wtf WTF WTF WTF wtf  wtf WTF WTF WTF WTF WTF wtf  WTF WTF WTF wtf wtf  WTF WTF WTF wtf  WTF wtf WTF WTF wtf  WTF wtf WTF wtf wtf wtf  WTF WTF wtf  wtf WTF wtf wtf  WTF wtf wtf wtf  wtf wtf WTF wtf WTF wtf wtf WTF WTF WTF wtf WTF wtf  wtf wtf WTF wtf wtf
+WTF wtf wtf wtf WTF wtf  wtf WTF wtf  wtf wtf wtf wtf wtf wtf WTF wtf  WTF wtf
+wtf WTF wtf wtf WTF wtf wtf wtf wtf WTF WTF WTF wtf  wtf WTF WTF WTF WTF WTF
+wtf  WTF WTF WTF wtf wtf  WTF WTF WTF wtf  WTF wtf WTF WTF wtf  WTF wtf WTF wtf
+wtf wtf  WTF WTF wtf  wtf WTF wtf wtf  WTF wtf wtf wtf  wtf wtf WTF wtf WTF wtf
+wtf WTF WTF WTF wtf WTF wtf  wtf wtf WTF wtf wtf
 ```
