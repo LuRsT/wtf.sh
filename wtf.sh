@@ -1,22 +1,19 @@
 #!/usr/bin/env bash
 set -e
-function randy() {
+
+function coin_flip() {
     echo $(($RANDOM % 2))
 }
+
 echo -n 'WTF '
 just_an_a='true'
 
 while :
 do
     sleep 0.01
-    if [[ $(randy) == 1 ]]; then
+    if [[ $(coin_flip) == 1 ]]; then
         echo -n 'WTF '
-        just_an_a='false'
     else
         echo -n 'wtf '
-        if [[ $just_an_a == 'false' ]] && [[ $(randy) == 1 ]]; then
-            echo -n ' '
-            just_an_a='true'
-        fi
     fi
 done
